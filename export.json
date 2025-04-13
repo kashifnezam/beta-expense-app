@@ -1,0 +1,202 @@
+{
+  "transactions": [
+    {
+      "id": "1744220411284",
+      "person": "person2",
+      "amount": 160,
+      "desc": "Roti and korma lunch (only Kashif paid by Salim)",
+      "date": "2025-04-09T17:40:11.284Z",
+      "history": []
+    },
+    {
+      "id": "1744218399216",
+      "person": "person1",
+      "amount": 50,
+      "desc": "Milk - ₹10 and Toray - ₹40",
+      "date": "2025-04-09T14:46:39.216Z",
+      "history": []
+    },
+    {
+      "id": "1744216823260",
+      "person": "person1",
+      "amount": 20,
+      "desc": "Milk (Two pack)",
+      "date": "2025-04-08T14:00:23.260Z",
+      "history": []
+    },
+    {
+      "id": "1744216807887",
+      "person": "person1",
+      "amount": 70,
+      "desc": "Paneer",
+      "date": "2025-04-08T14:00:07.887Z",
+      "history": []
+    },
+    {
+      "id": "1744216788763",
+      "person": "person2",
+      "amount": 45,
+      "desc": "Bhindi and Matar",
+      "date": "2025-04-08T13:59:48.763Z",
+      "history": []
+    },
+    {
+      "id": "1744216734097",
+      "person": "person2",
+      "amount": 40,
+      "desc": "Travel auto ",
+      "date": "2025-04-08T13:45:34.097Z",
+      "history": []
+    },
+    {
+      "id": "1744216217011",
+      "person": "person2",
+      "amount": 20,
+      "desc": "Raita",
+      "date": "2025-04-08T10:10:17.011Z",
+      "history": []
+    },
+    {
+      "id": "1744210218011",
+      "person": "person1",
+      "amount": 10,
+      "desc": "Tea",
+      "date": "2025-04-07T14:10:18.011Z",
+      "history": []
+    },
+    {
+      "id": "1744210189003",
+      "person": "person1",
+      "amount": 20,
+      "desc": "Auto Rickshaw ",
+      "date": "2025-04-07T14:09:49.003Z",
+      "history": []
+    },
+    {
+      "id": "1744210174274",
+      "person": "person2",
+      "amount": 20,
+      "desc": "Auto Rickshaw ",
+      "date": "2025-04-07T14:09:34.274Z",
+      "history": []
+    },
+    {
+      "id": "1744200760085",
+      "person": "person1",
+      "amount": 29,
+      "desc": "Milk",
+      "date": "2025-04-06T13:52:40.085Z",
+      "history": []
+    },
+    {
+      "id": "1744200750898",
+      "person": "person2",
+      "amount": 20,
+      "desc": "Bhindi",
+      "date": "2025-04-06T13:52:30.898Z",
+      "history": []
+    },
+    {
+      "id": "1744200665169",
+      "person": "person2",
+      "amount": 10,
+      "desc": "Biscuit for Kashif of Rs 5",
+      "date": "2025-04-06T22:11:05.169Z",
+      "history": [
+        {
+          "person": "Salim",
+          "amount": 10,
+          "desc": "Biscuit for Kashif Rs 5",
+          "date": "2025-04-06T13:48:37.298Z"
+        }
+      ]
+    },
+    {
+      "id": "1744200563687",
+      "person": "person2",
+      "amount": 10,
+      "desc": "Milk",
+      "date": "2025-04-06T09:12:43.687Z",
+      "history": []
+    },
+    {
+      "id": "1744200557276",
+      "person": "person1",
+      "amount": 25,
+      "desc": "Water",
+      "date": "2025-04-06T11:59:17.276Z",
+      "history": [
+        {
+          "person": "Kashif",
+          "desc": "Water",
+          "amount": 25,
+          "date": "2025-04-05T16:44:40.982Z"
+        },
+        {
+          "person": "Kashif",
+          "amount": 20,
+          "desc": "Water",
+          "date": "2025-04-06T09:11:22.649Z"
+        }
+      ]
+    },
+    {
+      "id": "1744200672930",
+      "person": "person2",
+      "amount": 110,
+      "desc": "Chicken + lassan paste",
+      "date": "2025-04-06T13:51:12.930Z",
+      "history": [
+        {
+          "person": "Salim",
+          "desc": "Chincken + lassan paste",
+          "amount": 110,
+          "date": "2025-04-05T16:44:21.828Z"
+        }
+      ]
+    },
+    {
+      "id": "1744200541368",
+      "person": "person2",
+      "amount": 20,
+      "desc": "Baigan",
+      "date": "2025-04-06T15:49:01.368Z",
+      "history": [
+        {
+          "amount": 20,
+          "desc": "Baigan",
+          "date": "2025-04-05T06:19:49.668Z"
+        },
+        {
+          "person": "Salim",
+          "desc": "Baigan",
+          "amount": 19,
+          "date": "2025-04-05T21:02:56.234Z"
+        }
+      ]
+    },
+    {
+      "id": "1744200449142",
+      "person": "person1",
+      "amount": 29,
+      "desc": "Milk",
+      "date": "2025-04-06T09:34:09.142Z",
+      "history": [
+        {
+          "desc": "Milk",
+          "amount": 29,
+          "date": "2025-04-05T06:19:20.937Z"
+        },
+        {
+          "person": "Kashif",
+          "desc": "Mils",
+          "amount": 29,
+          "date": "2025-04-05T18:12:34.545Z"
+        }
+      ]
+    }
+  ],
+  "trash": [],
+  "person1Name": "Kashif",
+  "person2Name": "Salim"
+}
